@@ -2,16 +2,16 @@
  
  - 🔭 I’m currently Building Skills . 
 - 🌱 I’m currently learning  Android Studio
-- 👯 I’m looking to collaborate on C++ PROJECTS
-- 🤔 I’m looking for help with :) 
-- 💬 Ask me about :)
+- 👯 I’m looking to collaborate on Android Development PROJECTS
+- 🤔 I’m looking for help with :) Kotlin
+- 💬 Ask me about :) Android Development
 - 📫 How to reach me: 
 -   <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" alt="YASH TWITTER Profile" width="22px" align="left"></a>
     <a href="https://www.linkedin.com/in/aman-pant-b5ab11197/">
     <img alt="Aman's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="22px"     align="left"></a>
     <a href="https://discord.gg/8KaxBUNJ" rel="nofollow">
     <img alt="Aman's Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" align="left">   </a><br>
-- 😄 Pronouns: Babaji
+- 😄 Pronouns: HARLEY
 - ⚡ Fun fact: :( I am half finish 
 
 
