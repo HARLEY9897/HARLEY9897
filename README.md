@@ -11,7 +11,7 @@
     <img alt="Aman's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="22px"     align="left"></a>
     <a href="https://discord.gg/8KaxBUNJ" rel="nofollow">
     <img alt="Aman's Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" align="left">   </a><br>
-- 😄 Pronouns: HARLEY
+- 😄 Pronouns: He
 - ⚡ Fun fact: :( I am half finish 
 
 
