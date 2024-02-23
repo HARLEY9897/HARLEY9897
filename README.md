@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on Android Development PROJECTS
 - 🤔 I’m looking for help with :) Kotlin
 - 💬 Ask me about :) Android Development
+- - 😄 Pronouns: He
+- ⚡ Fun fact: :( I am half finish 
 - 📫 How to reach me: 
 -   <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" alt="YASH TWITTER Profile" width="22px" align="left"></a>
     <a href="https://www.linkedin.com/in/aman-pant-b5ab11197/">
@@ -13,8 +15,7 @@
     <img alt="Aman's Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" align="left">   </a>
     <br>
     <br>
-- 😄 Pronouns: He
-- ⚡ Fun fact: :( I am half finish 
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=HARLEY9897&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
