@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Android Development PROJECTS
 - 🤔 I’m looking for help with :) Kotlin
 - 💬 Ask me about :) Android Development
-- - 😄 Pronouns: He
+- 😄 Pronouns: He
 - ⚡ Fun fact: :( I am half finish 
 - 📫 How to reach me: 
 -   <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" alt="YASH TWITTER Profile" width="22px" align="left"></a>
