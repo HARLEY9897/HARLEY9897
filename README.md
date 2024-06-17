@@ -2,7 +2,7 @@
  
  - 🔭 I’m currently Building Skills . 
 - 🌱 I’m currently learning  Web Development
-- 👯 I’m looking to collaborate on Web Development PROJECTS
+- 👯 I’m looking to collaborate on Web Development Projects
 - 🤔 I’m looking for help with :) React
 - 💬 Ask me about :) HTML CSS and JAVASCRIPT
 - 😄 Pronouns: He
