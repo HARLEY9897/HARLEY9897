@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning  Web Development
 - 👯 I’m looking to collaborate on Web Development Projects
 - 🤔 I’m looking for help with :) React
-- 💬 Ask me about :) HTML CSS and JAVASCRIPT
+- 💬 Ask me about: HTML CSS and JAVASCRIPT :)
 - 😄 Pronouns: He
-- ⚡ Fun fact: :( I am half finish 
+- ⚡ Fun fact: I am half finish :(
 - 📫 How to reach me: 
 -   <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" alt="YASH TWITTER Profile" width="22px" align="left"></a>
     <a href="https://www.linkedin.com/in/aman-pant-b5ab11197/">
